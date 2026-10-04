@@ -41,7 +41,9 @@ Possible decisions:
 
 The notebook includes an optional interactive form that allows a user to enter claim details and expense line items and evaluate the claim through the same agent pipeline used for the assignment claims.
 
-![Interactive Claim Demo](assets/claim-demo.png)
+Interactive Claim Demo
+<img width="2048" height="1258" alt="image" src="https://github.com/user-attachments/assets/18c9f2d1-0551-4f2e-a9fa-2be4b33fbf5c" />
+
 
 ## Running the Notebook
 
